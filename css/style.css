@@ -1,0 +1,136 @@
+.Logo{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 123px;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li{
+	display: inline-block;
+	margin-right: 28px;
+	color: #181C28;
+}
+.header-wraper{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%
+	background-color: #FFFFFF;
+
+}
+.image{
+	width: 100%
+}
+.text-title{
+	position: absolute;
+	top: 106px;
+	left: 663px;
+	color: white;
+	font-size: 22px;
+}
+.image-wrapper{
+	position: relative;
+}
+.popular-post{
+	margin-top:83px ;
+	margin-bottom: 83px;
+	margin-left: 172px;
+	margin-right: 1204px;
+	color: #FF7A00;
+}
+
+.section1{
+	margin-top: 98px;
+	background-color: white;
+}
+.container {
+	width: 1332px;
+	margin: 0 auto;
+}
+.block1 {
+	display: inline-block;
+	width: 636px;
+	margin-right: 52px;
+	margin-bottom: 58px;
+}
+.block2{
+	display: inline-block;
+	width: 636px;
+}
+.read{
+	color: #FF7A00;
+	margin-top: 13px;
+	margin-bottom: 67px;
+}
+.read::after{
+	content:'';
+	width:47px;
+	height:4px;
+	background-color: #FF7A00;
+	display: inline-block;
+	margin-left: 20px;
+}
+.title{
+	margin-top: 20px;
+	margin-bottom: 22px; 
+	font-size: 36px;
+}
+.paragraph{
+	margin-bottom: 13px;
+}
+.load{
+	width:190px ;
+	height: 70px;
+	background-color: #FF7A00;
+	margin:0 auto;
+	margin-top: 63px;
+	color: #FFFFFF;
+	text-align: center;
+	padding-top: 26px ;
+	text-transform: uppercase;
+	font-size: 16px;
+
+}
+.block{
+	width: 100%;
+	height:266px; 
+	background-color:#181C28 ;
+	margin-top: 134px;
+}
+/*footer*/
+.footer1{
+	display: inline-block;
+	margin-right: 210px;
+	vertical-align: top;
+}
+.footer2{
+	display: inline-block;
+	margin-right:252px;
+	vertical-align: top;
+}
+.footer3{
+	display: inline-block;
+	margin-right: 120px;
+	vertical-align: top;
+}
+.footer4{
+	display: inline-block;
+	vertical-align: top;
+}
+.blockfont{
+	font-size: 16px;
+	color: #7B7B7B;
+}
+.footer-title{
+	color: #282828;
+	font-size: 24px;
+	margin-bottom: 17px;
+	margin-top: 81px;
+}
+.Copyright{
+	text-align: right;
+	color: #A4A4A4;
+	font-size: 16px;
+}
